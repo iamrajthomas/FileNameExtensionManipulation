@@ -1,0 +1,6 @@
+C:\TFS\RT_AllData\source\repos\FileNameExtensionManipulation\FileNameExtensionManipulation\bin\Debug\FileNameExtensionManipulation.exe.config
+C:\TFS\RT_AllData\source\repos\FileNameExtensionManipulation\FileNameExtensionManipulation\bin\Debug\FileNameExtensionManipulation.exe
+C:\TFS\RT_AllData\source\repos\FileNameExtensionManipulation\FileNameExtensionManipulation\bin\Debug\FileNameExtensionManipulation.pdb
+C:\TFS\RT_AllData\source\repos\FileNameExtensionManipulation\FileNameExtensionManipulation\obj\Debug\FileNameExtensionManipulation.csproj.CoreCompileInputs.cache
+C:\TFS\RT_AllData\source\repos\FileNameExtensionManipulation\FileNameExtensionManipulation\obj\Debug\FileNameExtensionManipulation.exe
+C:\TFS\RT_AllData\source\repos\FileNameExtensionManipulation\FileNameExtensionManipulation\obj\Debug\FileNameExtensionManipulation.pdb
